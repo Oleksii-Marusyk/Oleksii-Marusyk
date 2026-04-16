@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi 👋 I'm Oleksii Marusyk
 
-<!--
-**Oleksii-Marusyk/Oleksii-Marusyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 BSc Computing Student | Software Developer
 
-Here are some ideas to get you started:
+📍 Galway, Ireland  
+🎯 Open to internships, placements & graduate roles (from Jan 2027)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🎓 Studying **BSc (Hons) Computing in Software Development** at ATU
+- 💻 Passionate about building **useful, user-focused applications**
+- 🌱 Currently improving skills in **frontend development & algorithms**
+- 🧠 Strong interest in **software design & problem solving**
+- 🔍 Actively seeking **industry experience opportunities**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**
+- JavaScript | TypeScript | Java | C | C#
+
+**Frontend:**
+- HTML | CSS | Responsive Design  
+- Basic Angular / Ionic
+
+**Databases:**
+- SQL | Database Design
+
+**Tools:**
+- Git | GitHub | VS Code | IntelliJ
+
+---
+
+### 📚 Projects
+
+#### 🎬 Movie Explorer (C#)
+- Built a movie search application
+- Focused on **functionality, UI, and user experience**
+- Practiced **OOP and application structure**
+
+#### 🌍 Tourist Website
+- Responsive multi-page website (HTML, CSS, JavaScript)
+- Team-based project
+- Focused on **layout, responsiveness, and usability**
+
+---
+
+### 📈 What I'm Learning
+- Data Structures & Algorithms  
+- Software Testing & Quality  
+- Cross-Platform Development  
+- Networking Fundamentals  
+
+---
+
+### 🧠 Core Skills
+- Object-Oriented Programming (OOP)
+- Problem Solving & Debugging
+- Algorithms & Data Structures
+- Responsive Web Design
+
+---
+
+### 🌟 Soft Skills
+- Teamwork 🤝  
+- Communication 💬  
+- Time Management ⏱️  
+- Leadership 🚀  
+- Strong willingness to learn 📚  
+
+---
+
+### 🌍 Languages
+- English  
+- Ukrainian  
+- Russian  
+
+---
+
+### 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/oleksii-marusyk/
+- 💻 GitHub: https://github.com/Oleksii-Marusyk
+- 📧 Email: G00446529@atu.ie
+
+---
+
+✨ *“Learning, building, and improving every day.”*
